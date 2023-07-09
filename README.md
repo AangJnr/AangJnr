@@ -12,31 +12,29 @@ A seasoned mobile engineer with over 7 years of industry experience, I possess a
 <br/>
 With a deep understanding of Object-Oriented Programming, I excel in developing apps tailored to customer specifications. I am adept at recommending application changes to enhance efficiency and upgrading existing apps to maximize their usefulness. Throughout my career, I have gained valuable experience working with mobile SDKs and design guidelines, adhering to coding standards while focusing on structured architectural and design patterns.
 
-My dedication to staying up-to-date with the latest industry trends and technologies ensures that I can consistently deliver cutting-edge solutions.
+My dedication to staying up-to-date with industry trends and technologies ensures I can consistently deliver cutting-edge solutions.
 
 
 ### Projects:
 #### Contena Logistics & Fleet management tool
-As the lead developer of the Contena project, I spearheaded the development of a powerful application that simplifies delivery tracking and financial management. Built using Flutter, Contena provides a seamless experience for both Android and iOS users. Learn more about Contena at https://contena.io/.<br/>
+As the lead developer of the Contena project, I spearheaded the development of a powerful application that simplifies delivery tracking and financial management. Built using Flutter, Contena provides a seamless experience for both Android and iOS users. Learn more about Contena at https://contena.io/.<br/><br/>
 Available on both [Android](https://play.google.com/store/apps/details?id=com.es.contena_driver_app) and [IOS](https://apps.apple.com/om/app/contena-driver-app/id1645073138).
+
+##### Tech stack: 🩵 Flutter, 🔗 RESTApis, 📍 Google Maps API, 💳 Paystack, Stripe 
+
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 1.png">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 1.png" width="200"/></a>
+  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/contena_header_2.jpg">
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/contena_header_2.jpg"/></a>
 </td>
+   
+</tr></table>
+ <table><tr>
  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 2.png">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 2.png" width="200"/></a>
-</td>
-  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 3.png">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 3.png" width="200"/></a>
+  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/contena_header.png">
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/contena_header.png"/></a>
 </td>
   </td>
-  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 4.png">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 4.png" width="200"/></a>
-</td>
 </tr></table></div>
 <br/><br/>
 

@@ -38,6 +38,45 @@ Available on both [Android](https://play.google.com/store/apps/details?id=com.es
 </tr></table></div>
 <br/><br/>
 
+
+
+#### Find.Dance App
+Collaborated with backend engineers to seamlessly integrate multiple APIs into the Find.dance app, making it compatible with both tablets and mobile devices. Incorporated Firebase analytics for enhanced tracking of metrics and user engagements, resulting in an 80% increase in bug tracking. Additionally, wrote comprehensive unit and integration tests with 70% coverage to ensure optimal functionality and robustness of the application across different devices.<br/><br/>
+Available on [Android](https://play.google.com/store/apps/details?id=dance.find).
+
+##### Tech stack: Kotlin, Android XML, Espresso, JUnit, REST APIs
+
+<div style="text-align: center">
+  <table>
+    <tr>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/header_image.png">
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/header_image.png"/></a>
+</td>
+</tr>
+  </table>
+  <table>
+ <tr>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/finddance_eventsresult_tablet.jpg">
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/finddance_eventsresult_tablet.jpg" width="500"/></a>
+</td>
+   <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/finddance_eventsresult_mobile.png">
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/finddance_eventsresult_mobile.png" width="200"/></a>
+</td>
+
+<td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/finddance_eventsresultdetails_mobile.png">
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/finddance_eventsresultdetails_mobile.png" width="200"/></a>
+</td>
+</tr>
+  </table>
+   
+</div>
+<br/><br/>
+
+
 #### 📫 How to reach me:
 
   - Email: cion.aang@gmail.com

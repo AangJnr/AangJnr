@@ -1,10 +1,60 @@
-- 👋 Hi, I’m @AangJnr (Camara-laye is my real name)
-- 👀 I’m interested in anything tech! and how it impacts our lives in a positive way no matter how little... I am that guy who things we should be able to control our daily actions via tech :D
-- 🤖 I’m currently learning Machine Learning and AI
-- 💞️ I’m looking to collaborate on anything challenging at all! No barriers. We are capable of so much more as Humans!
-- 📫 How to reach me phone: +233263202632 | email: cion.aang@gmail.com
-
 <!---
 AangJnr/AangJnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+### 👋 Hi, I’m Camara-laye.
+
+A seasoned mobile engineer with over 7 years of industry experience, I possess a diverse skill set in various mobile stacks, including Java, Kotlin, Swift, and Flutter. My expertise lies in developing scalable and complex applications, bringing simplicity to well-architected designs. I have a broad knowledge base in domains such as:
+#### E-commerce, E-logistics, Business & Finance, Streaming and Booking apps.
+<br/>
+With a deep understanding of Object-Oriented Programming, I excel in developing apps tailored to customer specifications. I am adept at recommending application changes to enhance efficiency and upgrading existing apps to maximize their usefulness. Throughout my career, I have gained valuable experience working with mobile SDKs and design guidelines, adhering to coding standards while focusing on structured architectural and design patterns.
+
+My dedication to staying up-to-date with the latest industry trends and technologies ensures that I can consistently deliver cutting-edge solutions.
+
+
+### Projects:
+#### Contena Logistics & Fleet management tool
+As the lead developer of the Contena project, I spearheaded the development of a powerful application that simplifies delivery tracking and financial management. Built using Flutter, Contena provides a seamless experience for both Android and iOS users. Learn more about Contena at https://contena.io/.<br/>
+Available on both [Android](https://play.google.com/store/apps/details?id=com.es.contena_driver_app) and [IOS](https://apps.apple.com/om/app/contena-driver-app/id1645073138).
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 1.png">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 1.png" width="200"/></a>
+</td>
+ <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 2.png">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 2.png" width="200"/></a>
+</td>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 3.png">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 3.png" width="200"/></a>
+</td>
+  </td>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 4.png">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 4.png" width="200"/></a>
+</td>
+</tr></table></div>
+<br/><br/>
+
+#### 📫 How to reach me:
+
+  - Email: cion.aang@gmail.com
+  - Linkedln: https://www.linkedin.com/aangjnr/
+<br/><br/>
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

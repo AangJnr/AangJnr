@@ -225,7 +225,7 @@ Learn more about Wine2U (Recycle Box) at https://wine2u.com/site#.
 #### Plendify Pay
 Plendify Pay - Architectured and integrated Plendify Pay with Stripe and Paystack.
 
-Learn more about Cloopp (Recycle Box) at https://pay.plendify.com/.
+Learn more about Cloopp at https://pay.plendify.com/.
 
 ##### Tech stack: PayStack and Stripe Apis, REST APIs
 

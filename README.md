@@ -88,16 +88,16 @@ Learn more about Cloopp (Recycle Box) at https://cloopp.com/.
  <tr>
   <td style="text-align: center">
   <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_main_signup.png">
-    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_main_signup.png" width="200"/></a>
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_main_signup.png" width="300"/></a>
 </td>
    <td style="text-align: center">
   <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_main.png">
-    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_main.png" width="200"/></a>
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_main.png" width="300"/></a>
 </td>
 
 <td style="text-align: center">
   <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_profile.png">
-    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_profile.png" width="200"/></a>
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_profile.png" width="300"/></a>
 </td>
 </tr>
   </table>
@@ -106,16 +106,16 @@ Learn more about Cloopp (Recycle Box) at https://cloopp.com/.
  <tr>
   <td style="text-align: center">
   <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_coupoons.png">
-    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_coupoons.png" width="200"/></a>
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_coupoons.png" width="300"/></a>
 </td>
    <td style="text-align: center">
   <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/cloopp_impact.png">
-    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_impact.png" width="200"/></a>
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_impact.png" width="300"/></a>
 </td>
 
 <td style="text-align: center">
   <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/cloopp_analytics.png">
-    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_analytics.png" width="200"/></a>
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_analytics.png" width="300"/></a>
 </td>
 </tr>
   </table>

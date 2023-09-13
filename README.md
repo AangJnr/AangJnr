@@ -63,13 +63,13 @@ Available on [Android](https://play.google.com/store/apps/details?id=dance.find)
     <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/finddance_eventsresult_tablet.jpg" width="500"/></a>
 </td>
    <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/finddance_eventsresult_mobile.png">
-    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/finddance_eventsresult_mobile.png" width="200"/></a>
+  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/finddance_eventsresult_mobile.png">
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/finddance_eventsresult_mobile.png" width="200"/></a>
 </td>
 
 <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/finddance_eventsresultdetails_mobile.png">
-    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/finddance_eventsresultdetails_mobile.png" width="200"/></a>
+  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/finddance_eventsresultdetails_mobile.png">
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/finddance_eventsresultdetails_mobile.png" width="200"/></a>
 </td>
 </tr>
   </table>
@@ -91,13 +91,13 @@ Learn more about Cloopp (Recycle Box) at https://cloopp.com/.
     <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_main_signup.png" width="200"/></a>
 </td>
    <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/cloopp_main.png">
-    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/cloopp_main.png" width="200"/></a>
+  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_main.png">
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_main.png" width="200"/></a>
 </td>
 
 <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/cloopp_profile.png">
-    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/cloopp_profile.png" width="200"/></a>
+  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_profile.png">
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_profile.png" width="200"/></a>
 </td>
 </tr>
   </table>
@@ -105,17 +105,17 @@ Learn more about Cloopp (Recycle Box) at https://cloopp.com/.
   <table>
  <tr>
   <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_coupons.png">
-    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_coupons.png" width="200"/></a>
+  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_coupoons.png">
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_coupoons.png" width="200"/></a>
 </td>
    <td style="text-align: center">
   <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/cloopp_impact.png">
-    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/cloopp_impact.png" width="200"/></a>
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_impact.png" width="200"/></a>
 </td>
 
 <td style="text-align: center">
   <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/cloopp_analytics.png">
-    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/cloopp_analytics.png" width="200"/></a>
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/cloopp_analytics.png" width="200"/></a>
 </td>
 </tr>
   </table>

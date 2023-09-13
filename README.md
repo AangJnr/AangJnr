@@ -175,7 +175,7 @@ Learn more about Wholesome Craft at https://wholesomecraftghana.com/.
 #### Wine2U
 Wine2U - Shop the latest releases of wine along with exclusive offers, rare and limited edition wines, as well as the latest merchandise.
 
-Learn more about Cloopp (Recycle Box) at https://wine2u.com/site#.
+Learn more about Wine2U (Recycle Box) at https://wine2u.com/site#.
 
 ##### Tech stack: Dart, Flutter, PayStack and Stripe Apis, REST APIs
 
@@ -206,20 +206,39 @@ Learn more about Cloopp (Recycle Box) at https://wine2u.com/site#.
     <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/wine_product.png" width="300"/></a>
 </td>
    <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/wine_news.png">
+  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/wine_news.png">
     <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/wine_news.png" width="300"/></a>
 </td>
 
 <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/wine_share.png">
+  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/wine_share.png">
     <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/wine_share.png" width="300"/></a>
 </td>
 </tr>
   </table>
-
 </div>
 <br/><br/>
 
+
+
+
+#### Plendify Pay
+Plendify Pay - Architectured and integrated Plendify Pay with Stripe and Paystack.
+
+Learn more about Cloopp (Recycle Box) at https://pay.plendify.com/.
+
+##### Tech stack: PayStack and Stripe Apis, REST APIs
+
+<div style="text-align: center">
+  <table>
+ <tr>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/plendify.png">
+    <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/plendify.png" alt=""/></a>
+</td>
+</table>
+</div>
+<br/><br/>
 
 
 

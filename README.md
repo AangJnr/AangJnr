@@ -10,25 +10,32 @@ You can click the Preview link to take a look at your changes.
 A seasoned mobile engineer with over 8 years of industry experience, I possess a diverse skill set in various mobile stacks, including Java, Kotlin, Swift, and Flutter. My expertise lies in developing scalable and complex applications, bringing simplicity to well-architected designs. I have a broad knowledge base in domains such as:
 #### E-commerce, E-logistics, Business & Finance, Streaming and Booking apps.
 <br/>
-With a deep understanding of Object-Oriented Programming, I excel in developing apps tailored to customer specifications. I am adept at recommending application changes to enhance efficiency and upgrading existing apps to maximize their usefulness. Throughout my career, I have gained valuable experience working with mobile SDKs and design guidelines, adhering to coding standards while focusing on structured architectural and design patterns.
+Throughout my career, I have gained valuable experience working with mobile SDKs and design guidelines, adhering to coding standards while focusing on structured architectural and design patterns.
 
 My dedication to staying up-to-date with industry trends and technologies ensures I can consistently deliver cutting-edge solutions.
+
+[![](https://visitcount.itsvg.in/api?id=AangJnr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+#### 📫 How to reach me:
+  - Email: cion.aang@gmail.com
+  - Linkedln: https://www.linkedin.com/aangjnr/
+<br/><br/>
 
 
 ### Projects:
 #### Contena Logistics & Fleet management tool
-As the lead developer of the Contena project, I spearheaded the development of a powerful application that simplifies delivery tracking and financial management. Built using Flutter, Contena provides a seamless experience for both Android and iOS users. Learn more about Contena at https://contena.io/. 
+As the lead developer of the Contena project, I spearheaded the development of a powerful application that simplifies delivery tracking and financial management. Built using Flutter, Contena provides a seamless experience for both Android and iOS users. Learn more about Contena at https://contena.io/.
 <br/><br/>
 Available on both [Android](https://play.google.com/store/apps/details?id=com.es.contena_driver_app) and [IOS](https://apps.apple.com/om/app/contena-driver-app/id1645073138).
 
-##### Tech stack: 🩵 Flutter, 🔗 RESTApis, 📍 Google Maps API, 💳 Paystack, Stripe 
+##### Tech stack: 🩵 Flutter, 🔗 RESTApis, 📍 Google Maps API, 💳 Paystack, Stripe
 
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
   <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/contena_header_2.jpg">
     <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/main/resources/contena_header_2.jpg"/></a>
 </td>
-   
+
 </tr></table>
  <table><tr>
  <td style="text-align: center">
@@ -83,7 +90,7 @@ Learn more about Cloopp (Recycle Box) at https://cloopp.com/.
 ##### Tech stack: Dart, Flutter, Camera2 Api, Google Maps, REST APIs
 
 <div style="text-align: center">
-   
+
   <table>
  <tr>
   <td style="text-align: center">
@@ -119,7 +126,7 @@ Learn more about Cloopp (Recycle Box) at https://cloopp.com/.
 </td>
 </tr>
   </table>
-   
+
 </div>
 <br/><br/>
 
@@ -144,7 +151,7 @@ Learn more about Wholesome Craft at https://wholesomecraftghana.com/.
   </table>
   <table>
  <tr>
- 
+
    <td style="text-align: center">
   <a href="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/wholesome_main.png">
     <img src="https://raw.githubusercontent.com/AangJnr/AangJnr/AangJnr-patch-1/resources/wholesome_main.png" width="200"/></a>
@@ -238,12 +245,14 @@ Learn more about Cloopp at https://pay.plendify.com/.
 </td>
 </table>
 </div>
+
 <br/><br/>
 
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-
-#### 📫 How to reach me:
-  - Email: cion.aang@gmail.com
-  - Linkedln: https://www.linkedin.com/aangjnr/
 <br/><br/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
 

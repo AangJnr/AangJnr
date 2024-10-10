@@ -18,7 +18,7 @@ My dedication to staying up-to-date with industry trends and technologies ensure
 
 #### 📫 How to reach me:
   - Email: cion.aang@gmail.com
-  - Linkedln: https://www.linkedin.com/aangjnr/
+  - Linkedln: [https://www.linkedin.com/camara-laye](https://www.linkedin.com/in/camara-laye-ibrahim-karim-4a7b01103/)
 <br/><br/>
 
 

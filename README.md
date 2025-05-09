@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 👋 Hi, I’m Camara-laye.
 
-A seasoned mobile engineer with over 8 years of industry experience, I possess a diverse skill set in various mobile stacks, including Java, Kotlin, Swift, and Flutter. My expertise lies in developing scalable and complex applications, bringing simplicity to well-architected designs. I have a broad knowledge base in domains such as:
+A seasoned mobile engineer with over 9 years of industry experience, I possess a diverse skill set in various mobile stacks, including Java, Kotlin, Swift, and Flutter. My expertise lies in developing scalable and complex applications, bringing simplicity to well-architected designs. I have a broad knowledge base in domains such as:
 #### E-commerce, E-logistics, Business & Finance, Streaming and Booking apps.
 <br/>
 Throughout my career, I have gained valuable experience working with mobile SDKs and design guidelines, adhering to coding standards while focusing on structured architectural and design patterns.
